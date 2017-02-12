@@ -1,4 +1,3 @@
-# flatdesign1
 This is a code for flat design chat system Chatomania v1.1.
 This sistem is nor yet finished,but you are test for free...
 More updates soon
